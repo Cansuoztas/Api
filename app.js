@@ -1,5 +1,5 @@
-const apiKey= "94011cf8197348d3b6a1116fcda0abe9";
-  const url ="https://newsapi.org/v2/top-headlines?country=tr&apiKey="+apiKey;
+const api_Key= "94011cf8197348d3b6a1116fcda0abe9";
+  const url ="https://newsapi.org/v2/top-headlines?country=tr&apiKey="+api_Key;
 
 
 const news = async ()=> {
